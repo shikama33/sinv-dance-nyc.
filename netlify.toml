@@ -1,0 +1,8 @@
+# Configuración de Netlify: se lee automáticamente al conectar el repositorio.
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  NODE_VERSION = "20"
+  NPM_FLAGS = "--legacy-peer-deps"
