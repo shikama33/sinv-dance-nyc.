@@ -17,7 +17,7 @@ export const About = () => (
             <div className="mt-10 bg-white border-[4px] border-black shadow-[10px_10px_0_#14091F] p-6 sm:p-8 -rotate-1 max-w-2xl">
               <p className="text-base sm:text-lg leading-relaxed font-medium">
                 SINV started with a bunch of college students who just wanted to dance without feeling judged. Now it's a whole movement.
-                Our main instructor is like 25, so it's less "strict professor" and more "your friend who finally taught you to dance at the party".
+                .
               </p>
               <p className="mt-4 text-base sm:text-lg leading-relaxed font-medium">
                 <strong>Sin Vergüenza</strong> means no shame. Mess up the step? Bueno. Laugh, try again, keep moving that cintura.
