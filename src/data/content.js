@@ -35,7 +35,7 @@ export const MARQUEE = [
 
 export const VALUES = [
   { icon: "Footprints", title: "Zero experience? Perfect.", text: "Never danced? Ideal. We start from the very first paso." },
-  { icon: "GraduationCap", title: "Student prices", text: "Made by broke college kids. Priced like it." },
+  { icon: "GraduationCap", title: "Student prices", text: "Made by college students." },
   { icon: "Smile", title: "Good vibes only", text: "No judging, no divas. Mess up, laugh, go again." },
   { icon: "DoorOpen", title: "Walk-ins welcome", text: "Just show up. Seriously, la puerta está abierta." },
 ];
