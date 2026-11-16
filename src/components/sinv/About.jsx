@@ -31,7 +31,7 @@ export const About = () => (
             <img src="/img/p3.jpg" alt="Four friends laughing and dancing in a sunlit studio" className="w-full h-full object-cover photo-punch hover:scale-105 transition-transform duration-700" loading="lazy" />
           </div>
           <div className="absolute -bottom-8 left-4 bubble bg-white border-[3px] border-black px-4 py-3 font-bold -rotate-3 text-sm sm:text-base">
-            "I came for the cheap class, stayed for the familia"
+            "I came for the class, stayed for the familia"
           </div>
         </Reveal>
       </div>
